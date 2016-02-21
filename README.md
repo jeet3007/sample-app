@@ -1,1 +1,1 @@
-This is a samplle application for ROR 
+This is an application targetted for learning purpose of ROR
